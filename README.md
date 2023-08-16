@@ -1,2 +1,2 @@
 # Simple-Calculator
-<img src="calculator.png" width="200" />
+<img src="calculator.png"  />
