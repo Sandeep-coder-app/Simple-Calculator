@@ -1,2 +1,2 @@
-# Simple-Calculator
+# Simple Calculator
 <img src="calculator.png"  />
